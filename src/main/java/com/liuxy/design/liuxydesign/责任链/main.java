@@ -34,7 +34,6 @@ public class main {
         AuthService.auth("1000012", "1000998004813441");
         log.info("测试结果：{}", "模拟二级负责人审批，张经理");
         log.info("测试结果：{}", authLink.doAuth("小傅哥", "1000998004813441", currentDate));
-
         // 模拟一级负责人审批
         AuthService.auth("1000011", "1000998004813441");
         log.info("测试结果：{}", "模拟一级负责人审批，段总");
