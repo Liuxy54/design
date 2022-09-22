@@ -1,4 +1,4 @@
-package com.liuxy.design.liuxydesign.Mediator;
+package com.liuxy.design.liuxydesign.mediator;
 
 /**
  * @ClassName CoffeePot

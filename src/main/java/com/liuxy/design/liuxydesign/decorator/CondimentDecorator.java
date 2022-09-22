@@ -1,4 +1,4 @@
-package com.liuxy.design.liuxydesign.Decorator;
+package com.liuxy.design.liuxydesign.decorator;
 
 /**
  * @ClassName CondimentDecorator
